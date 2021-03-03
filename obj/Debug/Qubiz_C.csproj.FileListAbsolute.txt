@@ -1,0 +1,7 @@
+D:\Visual Studio Projektek\Qubiz_C\bin\Debug\Qubiz_C.exe.config
+D:\Visual Studio Projektek\Qubiz_C\bin\Debug\Qubiz_C.exe
+D:\Visual Studio Projektek\Qubiz_C\bin\Debug\Qubiz_C.pdb
+D:\Visual Studio Projektek\Qubiz_C\obj\Debug\Qubiz_C.csprojAssemblyReference.cache
+D:\Visual Studio Projektek\Qubiz_C\obj\Debug\Qubiz_C.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projektek\Qubiz_C\obj\Debug\Qubiz_C.exe
+D:\Visual Studio Projektek\Qubiz_C\obj\Debug\Qubiz_C.pdb

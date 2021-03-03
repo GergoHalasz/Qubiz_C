@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Qubiz_C")]
+[assembly: AssemblyTitle("BancAutomat")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Qubiz_C")]
+[assembly: AssemblyProduct("BancAutomat")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ab2cc64c-06b2-4b10-ae96-3e6e3327eae4")]
+[assembly: Guid("f84fe766-83b0-482a-86b0-2c2b53b7b89b")]
 
 // Version information for an assembly consists of the following four values:
 //

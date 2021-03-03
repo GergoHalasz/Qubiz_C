@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AB2CC64C-06B2-4B10-AE96-3E6E3327EAE4}</ProjectGuid>
+    <ProjectGuid>{F84FE766-83B0-482A-86B0-2C2B53B7B89B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Qubiz_C</RootNamespace>
-    <AssemblyName>Qubiz_C</AssemblyName>
+    <RootNamespace>BancAutomat</RootNamespace>
+    <AssemblyName>BancAutomat</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -49,6 +49,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
