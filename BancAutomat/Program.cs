@@ -17,7 +17,8 @@ namespace BancAutomat
             Console.WriteLine("asd");
 
             Console.WriteLine("TestingBranch1");
-
+            Console.WriteLine("Changes");
+            Console.WriteLine("asd");
         }
     }
 }
