@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F84FE766-83B0-482A-86B0-2C2B53B7B89B}</ProjectGuid>
+    <ProjectGuid>{26DAD461-3926-4F76-AFFA-B8351FC87EFB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BancAutomat</RootNamespace>
-    <AssemblyName>BancAutomat</AssemblyName>
+    <RootNamespace>Oras</RootNamespace>
+    <AssemblyName>Oras</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CreditCard.cs" />
+    <Compile Include="Bloc.cs" />
+    <Compile Include="Cartier.cs" />
+    <Compile Include="Casa.cs" />
+    <Compile Include="Firma.cs" />
+    <Compile Include="Institutie.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="User.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oras", "Oras.csproj", "{26DAD461-3926-4F76-AFFA-B8351FC87EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26DAD461-3926-4F76-AFFA-B8351FC87EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DAD461-3926-4F76-AFFA-B8351FC87EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DAD461-3926-4F76-AFFA-B8351FC87EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DAD461-3926-4F76-AFFA-B8351FC87EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6CB8787-790B-4C4B-A93D-922AC3E42384}
+	EndGlobalSection
+EndGlobal

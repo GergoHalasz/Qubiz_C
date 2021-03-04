@@ -1,0 +1,7 @@
+D:\Visual Studio Projektek\Qubiz_C\BancAutomat\bin\Debug\BancAutomat.exe.config
+D:\Visual Studio Projektek\Qubiz_C\BancAutomat\bin\Debug\BancAutomat.exe
+D:\Visual Studio Projektek\Qubiz_C\BancAutomat\bin\Debug\BancAutomat.pdb
+D:\Visual Studio Projektek\Qubiz_C\BancAutomat\obj\Debug\BancAutomat.csprojAssemblyReference.cache
+D:\Visual Studio Projektek\Qubiz_C\BancAutomat\obj\Debug\BancAutomat.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projektek\Qubiz_C\BancAutomat\obj\Debug\BancAutomat.exe
+D:\Visual Studio Projektek\Qubiz_C\BancAutomat\obj\Debug\BancAutomat.pdb

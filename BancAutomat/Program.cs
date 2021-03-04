@@ -10,6 +10,14 @@ namespace BancAutomat
     {
         static void Main(string[] args)
         {
+            CreditCard creditCard = new CreditCard();
+            User user = new User();
+            user.AddMoney(100);
+            Console.WriteLine(user.Balance);
+            Console.WriteLine("asd");
+
+
+
         }
     }
 }

@@ -1,0 +1,7 @@
+D:\Visual Studio Projektek\Qubiz_C\Oras\bin\Debug\Oras.exe.config
+D:\Visual Studio Projektek\Qubiz_C\Oras\bin\Debug\Oras.exe
+D:\Visual Studio Projektek\Qubiz_C\Oras\bin\Debug\Oras.pdb
+D:\Visual Studio Projektek\Qubiz_C\Oras\obj\Debug\Oras.csprojAssemblyReference.cache
+D:\Visual Studio Projektek\Qubiz_C\Oras\obj\Debug\Oras.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projektek\Qubiz_C\Oras\obj\Debug\Oras.exe
+D:\Visual Studio Projektek\Qubiz_C\Oras\obj\Debug\Oras.pdb
