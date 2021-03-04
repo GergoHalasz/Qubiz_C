@@ -11,7 +11,7 @@ namespace BancAutomat
         public double money = 2000.86;
         public double Balance { get { return GetBalance(); } }
 
-       
+
 
         public string Name { get { return GetName(); } }
 
@@ -26,8 +26,8 @@ namespace BancAutomat
         }
         public void AddMoney(double moneyToAdd)
         {
-           money += moneyToAdd;
-           
+            money += moneyToAdd;
+
         }
         public void WithdrawMoney(double moneyToWithdraw)
         {

@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace BancAutomat
 {
-    class CreditCard
+    public interface ICards
     {
-        public string type { get;  }
+        double GetBalance();
+       
+    }
+    class CreditCard : User,ICards
+    {
+        public string type { get { return GetType(); } }
         public string brand { get; }
         public string iban
         {
@@ -18,8 +23,12 @@ namespace BancAutomat
             }
         }
 
-       
-
+        
+        
+        public string GetType()
+        {
+            return "ING";
+        }
         public string pin
         {
             get
@@ -27,8 +36,6 @@ namespace BancAutomat
                 return GetPIN();
             }
         }
-        
-
         private string GetIBan()
         {
             return "RO98KNCB0123324580909876";
@@ -38,6 +45,23 @@ namespace BancAutomat
         {
             return "1234";
         }
+
+        public double GetBalance()
+        {
+            throw new NotImplementedException();
+        }
+
+        public CreditCard(string pin)
+        {
+            if(this.pin == pin)
+            {
+                User user = new User();
+
+            }
+            
+        }
        
+        
     }
+    
 }

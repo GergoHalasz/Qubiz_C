@@ -11,12 +11,34 @@ namespace Oras
         static void Main(string[] args)
         {
             Cartier cartier = new Cartier("Rogerius");
-            Bloc bloc1 = new Bloc();
-            Bloc bloc2 = new Bloc();
+            CapeCodStyle capeCodStyleHouse = new CapeCodStyle();
+            School school1 = new School();
+            School school2 = new School();
+            Bloc bloc = new Bloc();
+            Church church = new Church();
+            Console.Write("Houses: ");
+            Console.WriteLine(House.count);
+            Console.Write("Institutions: ");
+            Console.WriteLine(Institution.count);
+            Console.Write("All buildings: ");
+            Console.WriteLine(Building.count);
 
-            Casa casa = new Casa();
+           
+            school1.StreetName = "Str. Henri Coanda";
+            school1.BlockNumber = "Nr.17";
+            school1.ApartmentNumber = "Ap.3";
 
-            Console.WriteLine(cartier.SumaCaselor);
+
+            school2.StreetName = "Str. Moscovei";
+            school2.BlockNumber = "Nr.1";
+
+            Console.WriteLine("The Address of School 1: "+ school1.StreetName + " " + school1.BlockNumber + " ");
+            Console.WriteLine("The Address of School Ady Endre: " + school2.StreetName + " " + school2.BlockNumber + " ");
+
+
+
+
+
         }
     }
 }

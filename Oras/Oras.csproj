@@ -43,11 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bloc.cs" />
     <Compile Include="Cartier.cs" />
-    <Compile Include="Casa.cs" />
-    <Compile Include="Firma.cs" />
-    <Compile Include="Institutie.cs" />
+    <Compile Include="Cladiri.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
