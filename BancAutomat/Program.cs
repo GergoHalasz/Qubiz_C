@@ -16,7 +16,7 @@ namespace BancAutomat
             Console.WriteLine(user.Balance);
             Console.WriteLine("asd");
 
-
+            Console.WriteLine();
 
         }
     }
